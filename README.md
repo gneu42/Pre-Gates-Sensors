@@ -37,4 +37,11 @@
 
 
 # **Printing tips**
-Use you slicer to cut the rail to length.
+
+**What to print**
+  * 1 Pre-gate-Extrusion.stl ( Use your slicer to cut the rail to length )
+  * 2 Pre-gate_arms_x2.stl
+  * N Pre-gate_holder_xN.stl
+  * N Pre-gate_main_body_stl
+  * 1 Pre-gate-bypass.stl ( optional )
+  * 1 Pre-gate_PI-pico_box.stl ( optional )
