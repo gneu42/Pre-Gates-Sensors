@@ -25,14 +25,14 @@
  
 
 # BOM
-    * 2 M3 inserts
-    * N+2 M3 T-Nuts 
-    * N+4 M3x8 SHCS
-    * N 5.5mm ball bearing
-    * N Omron Switches D2F with lever
-    * 2xN+2 M2x10 Self tapping screws (2 are for the PI Pico box)
-    * N ECAS or magnet holder
-    * N 2 pins Dupond male connectors straight or angled 
+   * 2 M3 inserts
+   * N+2 M3 T-Nuts 
+   * N+4 M3x8 SHCS
+   * N 5.5mm ball bearing
+   * N Omron Switches D2F with lever
+   * 2xN+2 M2x10 Self tapping screws (2 are for the PI Pico box)
+   * N ECAS or magnet holder
+   * N 2 pins Dupond male connectors straight or angled 
 
 
 
