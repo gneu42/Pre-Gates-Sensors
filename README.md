@@ -1,11 +1,11 @@
 # **Pre-Gates-Sensors**
 
-### **This is an alternative to the Cotton tail lite version.** 
+### **This is an alternative to the pre-gate cottontail version.** 
 
 <p align=center><img src="Images/Pre-gate-full.JPG" width="500" alt="Pre-gate.JPG"><img src="Images/Pregate&filament path.JPG" width="500" alt="Pre-gate.JPG"></p>
 
 **It is composed of:**
-  * printed rail tha tis hooked up at th bottom of the ERCF V2 by 2 arms. This can also be a 2020 extrusion. The rail is designed for 13 gate + bypass, But can be cut in the slicer to the length needed.
+  * printed rail tha tis hooked up at th bottom of the ERCF V2 by 2 arms. This can also be a 2020 extrusion. The rail is designed for 13 gate + bypass, But can be cut in the slicer to the length needed. The bypass position can be anywhere.
   * the back side of the rail gives the possibility to hook up a small box that can receve a PI Pico in case the MCU does not have enough inputs for the Pre-Gate switches.
   * The back side of the rail gives also the possibility to attach the wires with tie wraps.
   * on top of the rail, comes the Pre_Gate sensor guides
@@ -21,16 +21,20 @@
 ## Summary.
 * **[Bom](#bom)**
 * **[Printing Tips](#printing-tips)**
-* **[Assembling tips](#assembling-tips)**
+
  
-# more to come shortly...
 
 # BOM
     * 2 M3 inserts
     * N M3 T-Nuts 
     * N+2 M3x8 SHCS
     * N 5.5mm ball bearing
-    * N Omron Switches
+    * N Omron Switches D2F with lever
     * 2xN M2x10 Self tapping screws
     * N ECAS
-    * N 2 pins Dupond male connectors 
+    * N 2 pins Dupond male connectors  version.** 
+
+
+
+# **Printing tips**
+Use you slicer to cut the rail to length.
