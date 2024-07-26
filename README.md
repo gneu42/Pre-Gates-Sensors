@@ -14,7 +14,7 @@
 **The Pre_Gate Sensor body.**
 <p align=center><img src="Images/pre-gate-switch.JPG" width="500" alt="Pre-gate.JPG"><img src="Images/pregate cutout.JPG" width="500" alt="Pre-gate.JPG"></p>
 
-  * This pregate sensor fixes the false triggering issue present in the other Pre-Gate sensor known as of now.
+  * This pregate sensor fixes the false triggering issue present in the other Pre-Gate sensor known to date.
   * the ball is at 90° instead at of bellow the filament. Thus the ball can't see the notch ground in the filament by "bad" load.unload. This makes it lore reliable.
   * The switch is installed with its lever, and therefore, the trigger point can be adjusted by bending the lever a little bit.
 
